@@ -5,7 +5,7 @@ Projeto de pesquisa desenvolvido para a disciplina de **Processamento Digital de
 
 ## Sobre o Projeto
 
-O trabalho investiga o reconhecimento de gestos dinâmicos de mão — gestos cujo significado depende tanto da pose quanto da evolução temporal do movimento. 
+O trabalho investiga o reconhecimento de gestos dinâmicos de mão, gestos cujo significado depende tanto da pose quanto da evolução temporal do movimento. 
 
 Atualmente, o repositório reúne a **Parte 1** do projeto, que consiste em uma revisão bibliográfica parcial de estudos publicados entre 2020 e 2025, cobrindo:
 * **Gestos estáticos vs. dinâmicos:** Contraste entre abordagens baseadas em quadros isolados (ex.: MediaPipe + redes neurais) e modelagem temporal.
